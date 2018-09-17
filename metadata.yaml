@@ -1,0 +1,29 @@
+_repo: Italian-Prisons-St-Angelo-the-Piombi-the-Vicaria-Prisons-of-the-Roman-Inquisition_52175
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Griffiths, Arthur
+    alias: Griffiths, Arthur George Frederick
+    birthdate: 1838
+    deathdate: 1908
+    gutenberg_agent_id: '3987'
+    url: http://www.gutenberg.org/2009/agents/3987
+description: ''
+gutenberg_issued: '2016-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52175'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The History and Romance of Crime
+subjects:
+- !lcsh 'Prisons -- Italy -- History'
+- !lcc 'HV'
+- !lcsh 'Inquisition'
+- !lcsh 'Punishment -- Italy'
+- GITenberg
+title: "Italian Prisons\r\nSt. Angelo; the Piombi; the Vicaria; Prisons of the Roman\
+  \ Inquisition"
+url: http://www.gutenberg.org/ebooks/52175
